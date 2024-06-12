@@ -1,0 +1,18 @@
+﻿  linked_list.c
+C:\24_1\HW1\linked_list.c(54,17): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(60,13): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(71,16): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(92,9): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(93,14): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(108,11): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(113,20): warning C4133: '!=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(114,8): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(132,9): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(143,5): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(155,15): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(168,8): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(169,14): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\24_1\HW1\linked_list.c(190,10): warning C4566: 유니버설 문자 이름 '\u00A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\24_1\HW1\linked_list.c(198,10): warning C4566: 유니버설 문자 이름 '\u00A0'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\24_1\HW1\linked_list.c(276,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HW1.vcxproj -> C:\24_1\HW1\x64\Debug\HW1.exe
